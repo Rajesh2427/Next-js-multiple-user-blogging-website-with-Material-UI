@@ -1,0 +1,12 @@
+.searchBar{
+    width: 100%;
+    padding-left: 10px;
+    height: auto;
+    border: none;
+    background-color:transparent;
+    outline: none;
+ 
+}
+.searchBar:focus-visible{
+    outline: none;
+}
